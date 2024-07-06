@@ -1,0 +1,240 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ParallelExample",
+      "request": "launch",
+      "mainClass": "ParallelExample",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "ConcurrentExample",
+      "request": "launch",
+      "mainClass": "ConcurrentExample",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "PrimeCalculatorTest",
+      "request": "launch",
+      "mainClass": "PrimeCalculatorTest",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "TestThread",
+      "request": "launch",
+      "mainClass": "TestThread",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "李仲翔",
+      "request": "launch",
+      "mainClass": "李仲翔",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "TryCatch",
+      "request": "launch",
+      "mainClass": "TryCatch",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "TestCSV",
+      "request": "launch",
+      "mainClass": "TestCSV",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "CSVWriteExample",
+      "request": "launch",
+      "mainClass": "CSVWriteExample",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "LogAnalyzer",
+      "request": "launch",
+      "mainClass": "LogAnalyzer",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "WriteExample",
+      "request": "launch",
+      "mainClass": "WriteExample",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "ReadExample",
+      "request": "launch",
+      "mainClass": "ReadExample",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "Statistics",
+      "request": "launch",
+      "mainClass": "Statistics",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "UppercaseWords",
+      "request": "launch",
+      "mainClass": "UppercaseWords",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "Stream1",
+      "request": "launch",
+      "mainClass": "Stream1",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "Stream",
+      "request": "launch",
+      "mainClass": "Stream",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "BankAccountmain",
+      "request": "launch",
+      "mainClass": "BankAccountmain",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "電子商務系統",
+      "request": "launch",
+      "mainClass": "電子商務系統",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "Books",
+      "request": "launch",
+      "mainClass": "Books",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "TEST",
+      "request": "launch",
+      "mainClass": "TEST",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "guess",
+      "request": "launch",
+      "mainClass": "guess",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "number",
+      "request": "launch",
+      "mainClass": "number",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "temp",
+      "request": "launch",
+      "mainClass": "temp",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "StarPattern",
+      "request": "launch",
+      "mainClass": "StarPattern",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "scanner",
+      "request": "launch",
+      "mainClass": "scanner",
+      "projectName": "後端課程_eed4dd32"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "TEST",
+      "request": "launch",
+      "mainClass": "TEST",
+      "projectName": "asd_719a7c3c"
+    },
+    {
+      "type": "java",
+      "name": "scanner",
+      "request": "launch",
+      "mainClass": "scanner",
+      "projectName": "asd_719a7c3c"
+    },
+    {
+      "type": "java",
+      "name": "scanner1",
+      "request": "launch",
+      "mainClass": "scanner1",
+      "projectName": "asd_719a7c3c"
+    },
+    {
+      "type": "java",
+      "name": "李仲翔",
+      "request": "launch",
+      "mainClass": "李仲翔",
+      "projectName": "asd_719a7c3c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/雞蛋/Desktop/後端課程/C",
+      "program": "c:/Users/雞蛋/Desktop/後端課程/C/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
